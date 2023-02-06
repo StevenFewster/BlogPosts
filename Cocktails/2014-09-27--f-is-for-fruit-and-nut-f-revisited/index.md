@@ -36,14 +36,14 @@ Mrs F really liked and will be demanding again. Just as well as we now have a bo
 So seeing as we had some cream to use up we had another go the next day.  This time I upped the measure of Frangelico and added some Cherry Brandy, while also using a couple of pippettefuls of Chocolate Bitters.  It made a measurable improvement and I've decided to christen it <strong>Fruit and Nut (Schwarzwald).</strong>
 
 Measures were roughly:
-  * 2 measures Rasberry Absolut</li>
-  * 2 measures Frangelico</li>
-  * 1 measure Chocolate Liqueur</li>
-  * 1 measure Baileys</li>
-  * 1 measure Cherry Brandy</li>
-  * 1.5 measures Milk</li>
-  * 1.5 measures Double Cream</li>
-  * 2 drops Chocolate Bitters</li>
+  * 2 measures Rasberry Absolut
+  * 2 measures Frangelico
+  * 1 measure Chocolate Liqueur
+  * 1 measure Baileys
+  * 1 measure Cherry Brandy
+  * 1.5 measures Milk
+  * 1.5 measures Double Cream
+  * 2 drops Chocolate Bitters
     
 
 Enjoy!

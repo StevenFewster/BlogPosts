@@ -45,16 +45,16 @@ Time Slot||Watching||Evil-doer||
 03:00|  *The Human Centipede*|  Chris Griffiths|
 03:30|  "|  "|
 04:00|  "|  "|
-04:30| *Jordan's Workout*</a> (3 parts)****|  Lesley Tout|
+04:30| *Jordan's Workout* (3 parts)****|  Lesley Tout|
 05:00|  * Jamie and Jimmy's Friday Night Feasts*|  Kathryn Osborn|
 05:30|  "|  "|
 06:00| * *Buffy*, Once More With Feeling *|  Lesley Tout|
 06:60|  "|  "|
 07:00| * Me and My Monsters*|  The Lawrences|
-07:30| YouTube</a>|  Dave &amp; Helen|
+07:30| YouTube|  Dave &amp; Helen|
 08:00|  "|  "|
 08:30|  *Tweenies, *Rastamouse**|  The Crouchers|
-09:00| The Waltons</a>*|  Gareth Morris|
+09:00| The Waltons*|  Gareth Morris|
 09:30|  "|  "|
 10:00|  *Coach Trip*|  Andy Small|
 10:30|  *Luton Airport*|  "|

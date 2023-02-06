@@ -20,7 +20,7 @@ Another nice straightforward method for putting it all together, everything in t
 
 And here we have the final result. Apologies for the quite awful photography but it gives you a bit of an idea of colour and things.
 
-!["Elderflower Manhattan - finished cocktail"](/images/uploads/2013/08/2013-08-19-20.32.39.jpg "Elderflower Manhattan - finished cocktail")
+![Elderflower Manhattan - finished cocktail](/images/uploads/2013/08/2013-08-19-20.32.39.jpg "Elderflower Manhattan - finished cocktail")
 
 ## The Verdict
 

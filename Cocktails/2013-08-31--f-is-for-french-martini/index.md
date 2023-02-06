@@ -22,7 +22,7 @@ It's another nice straightforward one involving pineapple juice, rum and chambor
 
 The Resultant output is below. Shake all ingredients over ice, it ended up looking like it had egg white in it which was unexpected.
 
-![a.k.a. "Flirtini" apparently](/images/uploads/2013/08/2013-08-31-11.32.27.jpg "a.k.a. 'Flirtini' apparently")
+![a.k.a. 'Flirtini' apparently](/images/uploads/2013/08/2013-08-31-11.32.27.jpg "a.k.a. 'Flirtini' apparently")
 
 ## The Verdict
 
