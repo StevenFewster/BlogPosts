@@ -5,6 +5,7 @@ description: "Developing an Open Sourced Angular library by implementing Atomic 
 author: "Steven Fewster"
 category: "code"
 cover: slidebean-hYN111MD_-M-unsplash.jpg
+date: 1970-01-01
 ---
 
 ## What problem are we trying to solve?
