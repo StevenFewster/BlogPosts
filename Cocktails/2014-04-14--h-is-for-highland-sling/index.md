@@ -1,11 +1,11 @@
 ---
-path: "/cocktails/h-is-for-highland-sling"
+slug: "/cocktails/h-is-for-highland-sling"
 date: "2013-08-31"
 title: H is for Highland Sling
 description: Walking in a Whisky Wonderland
 author: "Steven Fewster"
 category: "cocktails"
-cover: 2014-04-14-19.00.21-HDR.jpg
+cover: ./2014-04-14-19.00.21-HDR.jpg
 ---
 
 When Monday has given you a kicking, a sling seems highly appropriate. Looking for an 'H' and finding that I had all the pre requisites for this cheeky little number, I managed to get it made up before the Mrs got home!

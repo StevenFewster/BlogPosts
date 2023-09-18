@@ -1,11 +1,11 @@
 ---
-path: "/cocktails/j-is-for-julep"
+slug: "/cocktails/j-is-for-julep"
 date: "2014-08-05"
 title: J is for Julep
 description: Some southern drawl, yawl
 author: "Steven Fewster"
 category: "cocktails"
-cover: 2014-08-01-21.40.39.jpg
+cover: ./2014-08-01-21.40.39.jpg
 ---
 
 This sounded like it would be very refreshing but I essentially ended up doing an Alan Partridge with my free-wheeling antics.
@@ -16,13 +16,13 @@ As I had time on my hands I was able to do the recommended method of lightly mud
 
 ## The ingredients
 
-![Julep Ingredients, all in a row](/images/uploads/2014/08/2014-08-01-19.19.59.jpg "Old Tom Mint Julep Ingredients"]
+![Julep Ingredients, all in a row](./2014-08-01-19.19.59.jpg "Old Tom Mint Julep Ingredients"]
 
 Then, having shaken it up with some uncrushed ice, pour it over the crushed ice &#8211; a swirl with the bar spoon &#8211; and then more crushed ice.
 
 ## The result
 
-![Julep, mixed up and ready to go](/images/uploads/2014/08/2014-08-01-21.40.39.jpg "Julep ready to drink")
+![Julep, mixed up and ready to go](./2014-08-01-21.40.39.jpg "Julep ready to drink")
 
 ## The verdict
 

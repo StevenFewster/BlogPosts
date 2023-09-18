@@ -1,11 +1,11 @@
 ---
-path: "/cocktails/d-is-for-dirty-sanchez"
+slug: "/cocktails/d-is-for-dirty-sanchez"
 date: "2013-08-06"
 title: D is for Dirty Sanchez
 description: "Snigger.  Couldn't resist!"
 author: "Steven Fewster"
 category: "cocktails"
-cover: Diplomat.jpg
+cover: ./Diplomat.jpg
 ---
 
 
@@ -26,7 +26,7 @@ It was as good as I remember if no better as I took my time with it a bit more.
 
 Here's *the Diplomat*. Happened to be on the page opposite and I saw I had all the ingredients (having nabbed some Fee Brothers Orange Bitters in Marks and Sparks when I was in there. Then I saw that I didn't have martini rosso and used martini bianco. Then I saw I didn't have a maraschino liqueur and used amaretto instead. The result:
 
-![Diplomat](/images/uploads/2013/06/Diplomat.jpg "Diplomat")
+![Diplomat](./Diplomat.jpg "Diplomat")
 
 ## Verdict
 

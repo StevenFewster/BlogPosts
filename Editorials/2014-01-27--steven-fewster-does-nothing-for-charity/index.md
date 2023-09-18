@@ -1,12 +1,12 @@
 ---
 
-path: "/editorials/steven-fewster-does-nothing-for-charity"
+slug: "/editorials/steven-fewster-does-nothing-for-charity"
 date: "2014-01-27"
 title: Steven Fewster Does Nothing for Charity
 description: A brief flirt with altruism, minimum effort
 author: "Steven Fewster"
 category: "editorials"
-cover: imaging.ashx_.jpg
+cover: ./imaging.ashx_.jpg
 ---
 
 ## Sponsor me on 7th February for the  British Heart Foundation
@@ -21,7 +21,7 @@ Any left at the end will be bought by ME and I will schedule myself something ni
 
 Click here to donate and make  your requests:  [Just Giving &#8211; BHF](http://www.justgiving.com/StevenFewster "Just Giving - BHF")
 
-[24 hours of not doing this](/images/uploads/2014/01/imaging.ashx_.jpg "drunken ninja")
+[24 hours of not doing this](./imaging.ashx_.jpg "drunken ninja")
 
 Time Slot||Watching||Evil-doer||
 18:00|  *Home &amp; Away*|  Janet &amp; Lydia|

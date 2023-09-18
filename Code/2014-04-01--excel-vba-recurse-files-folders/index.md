@@ -1,11 +1,11 @@
 ---
-path: "/code/excel-vba-recursive-file-folder"
+slug: "/code/excel-vba-recursive-file-folder"
 date: "2014-04-01"
 title: Recursively List All Files/Folders with Excel VBA
 description: Directory file listings and a good introduction to recursion use case for newbies
 author: "Steven Fewster"
 category: "code"
-cover: poster.jpg
+cover: ./poster.jpg
 ---
 
 I've encountered this often enough that it's worth posting up here &#8211; I frequently need to list files in an Excel sheet and put notes by the side of them. Right now it's the suitability of each to be processed by a tool, previously it's just been wanting a list of all my MP3s - possibly to rename them later.

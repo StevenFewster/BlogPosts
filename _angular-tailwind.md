@@ -1,5 +1,5 @@
 ---
-path: "/projects/angular-tailwind-atomic"
+slug: "/projects/angular-tailwind-atomic"
 title: Applying Atomic Design with Tailblocks and Angular
 description: "Developing an Open Sourced Angular library by implementing Atomic 2.0 ideas on to the Tailwind CSS framework"
 author: "Steven Fewster"

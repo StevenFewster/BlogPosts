@@ -1,11 +1,11 @@
 ---
-path: "/cocktails/g-is-for-g-and-tea"
+slug: "/cocktails/g-is-for-g-and-tea"
 date: "2013-11-14"
 title: G is for G and Tea
 description: That's right. Tea. In a cocktail! The world's gone mad I tell you!
 author: "Steven Fewster"
 category: "cocktails"
-cover: Ready-to-Shake-G-and-Tea.jpg
+cover: ./Ready-to-Shake-G-and-Tea.jpg
 ---
 
 They're back! I'm sure having been missed by absolutely nobody at all.
@@ -14,17 +14,17 @@ The G in G &amp; Tea is Gin, obviously. We made this one up a couple of months a
 
 ## Ingredients
 
-![Ingredients for G and Tea](/images/uploads/2013/11/Ingredients-for-G-and-Tea.jpg "Ingredients for G and Tea")
+![Ingredients for G and Tea](./Ingredients-for-G-and-Tea.jpg "Ingredients for G and Tea")
 
 Our Elderflower liqueur is making another reappearance, so it's just add to the shaker with some ice, pour out and top up with soda water. Most of which exploded all over me when I opened it &#8211; drinking has it's dangers!
 
-![Ready-to-Shake-G-and-Tea](/images/uploads/2013/11/Ready-to-Shake-G-and-Tea.jpg "Ready to Shake - G and Tea")
+![Ready-to-Shake-G-and-Tea](./Ready-to-Shake-G-and-Tea.jpg "Ready to Shake - G and Tea")
 
 ## Result
 
 And below is the final result.  Nice colour. I've topped it up with quite a lot of soda water.
 
-![Summery. But also gets you smashed in November.](/images/uploads/2013/11/Final-Result-G-and-Tea.jpg "Summery. But also gets you smashed in November.")
+![Summery. But also gets you smashed in November.](./Final-Result-G-and-Tea.jpg "Summery. But also gets you smashed in November.")
 
 ## Verdict
 

@@ -1,5 +1,5 @@
 ---
-path: "/projects/bookmark-organiser"
+slug: "/projects/bookmark-organiser"
 title: Simple Browser Bookmark Organiser
 description: "Written in Angular with Angular Material, allow users to upload their bookmarks.xml file and prune and organise with ease"
 author: "Steven Fewster"

@@ -1,11 +1,11 @@
 ---
-path: "/cocktails/b-is-for-blueberry-berry-nice"
+slug: "/cocktails/b-is-for-blueberry-berry-nice"
 date: "2013-07-04"
 title: "B is for Blueberry Berry Nice"
 description: "Mmmm Blueberries"
 author: "Steven Fewster"
 category: "cocktails"
-cover: blueberries.jpg
+cover: ./blueberries.jpg
 ---
 
 Continuing the series of my A to Z walk-through of cocktails, this is a creation of my own.

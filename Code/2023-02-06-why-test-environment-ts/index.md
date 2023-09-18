@@ -1,11 +1,11 @@
 ---
-path: "/code/why-test-environment-ts"
+slug: "/code/why-test-environment-ts"
 date: "2023-02-06"
 title: Why would you want to write a unit test for environment.ts
 description: With Angular I've been caught out more than once with build failing in prod because I've not synced environment.ts and environment.prod.ts - so write a unit test
 author: "Steven Fewster"
 category: "code"
-cover: poster.jpg
+cover: ./mac-and-code.jpg
 ---
 
 The following is pretty basic but should at least catch those instances when you're deploying for a prod build and get caught out with missing environment variables.  It's happened to me a few times and if you pair it with something like Husky you'll catch the error BEFORE it makes the build stage.

@@ -1,11 +1,11 @@
 ---
-path: "/projects/a-new-hopefully-interesting-side-project"
+slug: "/projects/a-new-hopefully-interesting-side-project"
 title: Episode IV - A New Hope(fully interesting side project)
 description: Another side project that never got going
 date: "2013-10-11"
 author: "Steven Fewster"
 category: "projects"
-cover: planning-notebook.jpeg
+cover: ./planning-notebook.jpeg
 ---
 
 ## The Problem

@@ -1,11 +1,11 @@
 ---
-path: "/code/wont-let-those-robots-defeat-me"
+slug: "/code/wont-let-those-robots-defeat-me"
 date: "2013-02-19"
 title: You won't let those robots defeat me
 description: An Apache RewriteRule to restrict crawling of dev sites
 author: "Steven Fewster"
 category: "code"
-cover: eleventh-wave-8CbnwZYoahA-unsplash.jpg
+cover: ./eleventh-wave-8CbnwZYoahA-unsplash.jpg
 ---
 <span>Photo by <a href="https://unsplash.com/@11th_wave?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eleventh Wave</a> on <a href="https://unsplash.com/s/photos/robot?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 

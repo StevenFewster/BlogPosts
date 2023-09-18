@@ -1,24 +1,24 @@
 ---
-path: "/cocktails/c-is-for-corpse-reviver-no-2"
+slug: "/cocktails/c-is-for-corpse-reviver-no-2"
 date: "2013-07-12"
 title: C is for Corpse Reviver No. 2
 description: "Wakes up the extremities of the coldest corpses"
 author: "Steven Fewster"
 category: "cocktails"
-cover: 2013-06-25-21.02.21.jpg
+cover: ./2013-06-25-21.02.21.jpg
 ---
 
 A complicated drink for a somewhat boozy little number.  Gin, Cointreau, Vermouth and a tiniest hint of Absinthe (why I chose it &#8211; look at that bottle and you can see roughly how long it&#8217;s been there) combine to form a very nice and zesty cocktail.
 
 The, little bit dusty, ingredients from the cupboards.
 
-[Corpse Reviver](/images/uploads/2013/06/2013-06-25-20.54.59.jpg "Corpse Reviver")
+[Corpse Reviver](./2013-06-25-20.54.59.jpg "Corpse Reviver")
 
 That Hill's bottle hasn't been out for a while. With good reason.
 
 And the finished result. With a twist of lemon peel as I went all classy.
 
-[In all it's zesty glory](/images/uploads/2013/06/2013-06-25-21.02.21.jpg "Corpse Reviver in Martini Glass")
+[In all it's zesty glory](./2013-06-25-21.02.21.jpg "Corpse Reviver in Martini Glass")
 
 ## The Verdict
 

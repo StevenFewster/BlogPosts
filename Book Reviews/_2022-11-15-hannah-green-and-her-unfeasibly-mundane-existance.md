@@ -1,5 +1,5 @@
 ---
-path: "/editorials/hannah-green-and-her-unfeasibly-mundane-existance"
+slug: "/editorials/hannah-green-and-her-unfeasibly-mundane-existance"
 title: Hannah Green and her Unfeasibly Mundane Existence
 description: A Michael Marshall Smith Book
 author: Steven Fewster
