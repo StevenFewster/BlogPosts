@@ -6,8 +6,12 @@ description: An Apache RewriteRule to restrict crawling of dev sites
 author: "Steven Fewster"
 category: "code"
 cover: ./eleventh-wave-8CbnwZYoahA-unsplash.jpg
+attr:
+    sourceName: Eleventh Wave
+    sourceLink: https://unsplash.com/@11th_wave?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText
+    siteName: Unsplash
+    siteLink: https://unsplash.com/s/photos/robot?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText
 ---
-<span>Photo by <a href="https://unsplash.com/@11th_wave?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eleventh Wave</a> on <a href="https://unsplash.com/s/photos/robot?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 A lovely opportunity to quote [The Flaming Lips](http://youtu.be/AzlMeTxVdH8 "Yoshimi Battles the Pink Robots Pt I - The Flaming Lips") in my opening post (one reproduced from the last site just so I can use again)
 As a "proper" software developer, I have multiple test environments (okay, so for my own stuff local, test and prod only two of which are accessible by the outside world) and at work where we have many it makes our SEO people very sad to see those being spidered, so this needs to be fixed. Enter .htaccess to the rescue!
@@ -17,13 +21,16 @@ We've created a robots.txt for the live site as is standard, and robots_not_live
 RewriteCond %{HTTP_HOST} ^test.stevenfewster.com
 RewriteRule ^robots.txt$ /robots_not_live.txt [NC]
 ```
+
 So the file on live will appear as:
 
 ```bash
 User-agent: *
-Allow: /</blockquote>
+Allow: /
+```
 And on test (or wherever you specify) as:
-<blockquote>User-agent: *
+```bash
+User-agent: *
 Disallow: /
 ```
 

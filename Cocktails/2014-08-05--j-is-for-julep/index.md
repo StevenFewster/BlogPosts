@@ -16,7 +16,7 @@ As I had time on my hands I was able to do the recommended method of lightly mud
 
 ## The ingredients
 
-![Julep Ingredients, all in a row](./2014-08-01-19.19.59.jpg "Old Tom Mint Julep Ingredients"]
+![Julep Ingredients, all in a row](./2014-08-01-19.19.59.jpg "Old Tom Mint Julep Ingredients")
 
 Then, having shaken it up with some uncrushed ice, pour it over the crushed ice &#8211; a swirl with the bar spoon &#8211; and then more crushed ice.
 
@@ -26,6 +26,6 @@ Then, having shaken it up with some uncrushed ice, pour it over the crushed ice 
 
 ## The verdict
 
-As you can see, that's a lot of ice for not much liquid.  I probably did something wrong. I had a quick sip and the mint and gin worked well together but not having any straws (and oversight I really need to correct) it wasn't exactly practical to drink. It also would have  been a lot nicer in the blazing sun of a week or two ago as opposed to the evening following a bit of a drizzly day.  It probably would be better with a verandah to sit on too!
+As you can see, that's a lot of ice for not much liquid.  I probably did something wrong. I had a quick sip and the mint and gin worked well together but not having any straws (an oversight I really need to correct) it wasn't exactly practical to drink. It also would have  been a lot nicer in the blazing sun of a week or two ago as opposed to the evening following a bit of a drizzly day.  It probably would be better with a verandah to sit on too!
 
 As it was, I ended up topping up with some Indian tonic water to make it in to a longer drink, and essentially a slightly more elaborate pink gin and tonic.  Which was lovely!  Looking forward to trying some of the other Botanical Gin that I picked up and having a go at an Elderflower Tom Collins, which I might shoe-horn in to "T".

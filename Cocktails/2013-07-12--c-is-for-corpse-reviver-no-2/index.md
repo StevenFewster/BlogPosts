@@ -12,13 +12,13 @@ A complicated drink for a somewhat boozy little number.  Gin, Cointreau, Vermou
 
 The, little bit dusty, ingredients from the cupboards.
 
-[Corpse Reviver](./2013-06-25-20.54.59.jpg "Corpse Reviver")
+![Corpse Reviver](./2013-06-25-20.54.59.jpg "Corpse Reviver")
 
 That Hill's bottle hasn't been out for a while. With good reason.
 
 And the finished result. With a twist of lemon peel as I went all classy.
 
-[In all it's zesty glory](./2013-06-25-21.02.21.jpg "Corpse Reviver in Martini Glass")
+![In all it's zesty glory](./2013-06-25-21.02.21.jpg "Corpse Reviver in Martini Glass")
 
 ## The Verdict
 

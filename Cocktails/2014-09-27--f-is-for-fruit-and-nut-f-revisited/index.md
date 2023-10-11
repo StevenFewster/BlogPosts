@@ -10,7 +10,7 @@ cover: ./fruit-and-nut-martini-glass-overhead.jpg
 
 So I've already done "F" but I noticed this one when I was flicking through and really wanted to go back and have a crack at it when I eventually had all the ingredients.<!--more--> Following a trip to my favourite Whisky Exchange on Friday, I now had all the bits I needed to make it bar a Cadbury's Flake. Having got the missing bit at Sainsbury's on Saturday, it was time to treat Mrs F to another cocktail. Here's the ingredients assembled (note: chocolate bitters are in shot but not used. I'm thinking I might next time).
 
-![The dusty Chambord makes a reappearance](./Photo-27-09-2014-18-41-032.jpg "Ingredients for Fruit and Nut")
+![The dusty Chambord makes a reappearance](./2014-09-27 18.41.03 HDR.jpg "Ingredients for Fruit and Nut")
 
 ## Method/Result
 
@@ -22,11 +22,11 @@ That being said: End result was lovely. Improvements would be to change up the o
 
 Here's some horrifically grainy shots:
 
-![That's grated Cadbury's Flake, not nutmeg](./Photo-27-09-2014-18-54-012.jpg "That's grated Cadbury's Flake, not nutmeg")
+![That's grated Cadbury's Flake, not nutmeg](./fruit-and-nut-martini-glass-overhead.jpg "That's grated Cadbury's Flake, not nutmeg")
 
 And the second one:
 
-![Up close and personal with some slightly warm chocolatey goodness](./Photo-27-09-2014-18-54-18-12.jpg "Up close and personal with some slightly warm chocolatey goodness")
+![Up close and personal with some slightly warm chocolatey goodness](./fruit-and-nut-martini-glass-overhead.jpg "Up close and personal with some slightly warm chocolatey goodness")
 
 ## Verdict
 
