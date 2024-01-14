@@ -4,7 +4,7 @@ date: "2023-11-01"
 title: 30 Days of Code
 description: November - 30 days of trying to do a little bit every days
 author: "Steven Fewster"
-category: "code"
+category: "draft"
 cover: ./poster.jpg
 ---
 
