@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/h-is-for-highland-sling"
+slug: "/cocktails/h-is-for-highland-sling/"
 date: "2013-08-31"
 title: H is for Highland Sling
 description: Walking in a Whisky Wonderland

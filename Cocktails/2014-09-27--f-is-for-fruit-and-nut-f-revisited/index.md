@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/f-is-for-fruit-and-nut"
+slug: "/cocktails/f-is-for-fruit-and-nut/"
 date: "2013-09-27"
 title: F is for Fruit and Nut (F revisited)
 description: It's like a dessert cocktail

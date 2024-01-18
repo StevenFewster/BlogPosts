@@ -1,5 +1,5 @@
 ---
-slug: "/editorials/street-art-south-america"
+slug: "/editorials/street-art-south-america/"
 template: "gallery"
 date: "2014-09-01"
 title: Street Art From South America

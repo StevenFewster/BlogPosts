@@ -1,5 +1,5 @@
 ---
-slug: "/projects/a-first-angular-project"
+slug: "/projects/a-first-angular-project/"
 date: "2014-04-08"
 title: First Angular Project
 description: A simple project I did for a job interview this one time

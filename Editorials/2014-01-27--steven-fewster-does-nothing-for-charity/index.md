@@ -1,5 +1,5 @@
 ---
-slug: "/sundries/steven-fewster-does-nothing-for-charity"
+slug: "/sundries/steven-fewster-does-nothing-for-charity/"
 date: "2014-01-27"
 title: Steven Fewster Does Nothing for Charity
 description: A brief flirt with altruism, minimum effort

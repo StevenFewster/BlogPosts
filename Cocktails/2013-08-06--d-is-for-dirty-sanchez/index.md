@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/d-is-for-dirty-sanchez"
+slug: "/cocktails/d-is-for-dirty-sanchez/"
 date: "2013-08-06"
 title: D is for Dirty Sanchez
 description: "Snigger.  Couldn't resist!"

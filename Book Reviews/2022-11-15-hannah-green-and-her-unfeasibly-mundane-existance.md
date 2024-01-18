@@ -1,5 +1,5 @@
 ---
-slug: "/editorials/hannah-green-and-her-unfeasibly-mundane-existance"
+slug: "/editorials/hannah-green-and-her-unfeasibly-mundane-existance/"
 title: Hannah Green and her Unfeasibly Mundane Existence
 cover: ./hannah-green-and-her-unfeasibly-mundane-existance.jpeg
 description: A Michael Marshall Smith Book

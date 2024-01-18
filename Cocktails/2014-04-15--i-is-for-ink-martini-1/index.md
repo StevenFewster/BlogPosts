@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/i-is-for-ink-martini"
+slug: "/cocktails/i-is-for-ink-martini/"
 date: "2014-04-05"
 title: I is for Ink Martini #1
 description: Brother, can you spare a squid?

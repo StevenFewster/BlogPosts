@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/g-is-for-g-and-tea"
+slug: "/cocktails/g-is-for-g-and-tea/"
 date: "2013-11-14"
 title: G is for G and Tea
 description: That's right. Tea. In a cocktail! The world's gone mad I tell you!

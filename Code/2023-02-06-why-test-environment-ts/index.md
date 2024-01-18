@@ -1,5 +1,5 @@
 ---
-slug: "/code/why-test-environment-ts"
+slug: "/code/why-test-environment-ts/"
 date: "2023-02-06"
 title: Why would you want to write a unit test for environment.ts
 description: With Angular I've been caught out more than once with build failing in prod because I've not synced environment.ts and environment.prod.ts - so write a unit test

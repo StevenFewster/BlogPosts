@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/a-is-for-apricot-sour"
+slug: "/cocktails/a-is-for-apricot-sour/"
 date: "2013-06-28"
 title: A is for Apricot Sour
 description: "A wander through the pages of Diffords"

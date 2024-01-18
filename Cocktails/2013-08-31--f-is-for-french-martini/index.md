@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/f-is-for-french-martini"
+slug: "/cocktails/f-is-for-french-martini/"
 date: "2013-08-31"
 title: F is for French Martini
 description: "One that I keep coming back to again and again"

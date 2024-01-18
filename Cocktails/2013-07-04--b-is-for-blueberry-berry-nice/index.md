@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/b-is-for-blueberry-berry-nice"
+slug: "/cocktails/b-is-for-blueberry-berry-nice/"
 date: "2013-07-04"
 title: "B is for Blueberry Berry Nice"
 description: "Mmmm Blueberries"

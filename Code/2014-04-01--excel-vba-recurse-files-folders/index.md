@@ -1,5 +1,5 @@
 ---
-slug: "/code/excel-vba-recursive-file-folder"
+slug: "/code/excel-vba-recursive-file-folder/"
 date: "2014-04-01"
 title: Recursively List All Files/Folders with Excel VBA
 description: Directory file listings and a good introduction to recursion use case for newbies

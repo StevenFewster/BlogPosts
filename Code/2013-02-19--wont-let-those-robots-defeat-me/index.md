@@ -1,5 +1,5 @@
 ---
-slug: "/code/wont-let-those-robots-defeat-me"
+slug: "/code/wont-let-those-robots-defeat-me/"
 date: "2013-02-19"
 title: You won't let those robots defeat me
 description: An Apache RewriteRule to restrict crawling of dev sites

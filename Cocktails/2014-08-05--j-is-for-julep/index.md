@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/j-is-for-julep"
+slug: "/cocktails/j-is-for-julep/"
 date: "2014-08-05"
 title: J is for Julep
 description: Some southern drawl, yawl

@@ -1,5 +1,5 @@
 ---
-slug: "/code/30-days-of-code"
+slug: "/code/30-days-of-code/"
 date: "2023-11-01"
 title: 30 Days of Code
 description: November - 30 days of trying to do a little bit every days

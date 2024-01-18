@@ -1,5 +1,5 @@
 ---
-slug: "/projects/site-suite-angular-feathers-project"
+slug: "/projects/site-suite-angular-feathers-project/"
 date: "2020-04-24"
 title: FeathersJS/Angular App for Managing Logos
 description: "Creating a Javascript application to manage internal sites and provide a consistent set of logos"

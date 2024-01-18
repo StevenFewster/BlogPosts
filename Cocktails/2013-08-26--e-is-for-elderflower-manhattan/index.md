@@ -1,5 +1,5 @@
 ---
-slug: "/cocktails/e-is-for-elderflower-manhattan"
+slug: "/cocktails/e-is-for-elderflower-manhattan/"
 date: "2013-08-26"
 title: E is for Elderflower Manhattan
 description: "You've got to love that St Germain"
