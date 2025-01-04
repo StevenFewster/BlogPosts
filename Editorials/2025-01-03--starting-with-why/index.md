@@ -32,7 +32,7 @@ Two is obviously more fun. Mobile app, scanning pictures, OCR, AI to create an e
 
 So I've started with WHAT. Which is the opposite of what I started out saying. However. There is a WHY. There's the WHY of that project over the other one. What drew me into making that choice rather than the first one, which would really be solving a problem that someone else has, rather than a problem I have. So... WHY?
 
-To promote live events to people nearby and by doing so, making it even more worthwhile for venues in creating and hosting them.
+> To promote live events to people nearby and by doing so, making it even more worthwhile for venues in creating and hosting them.
 
 There. That will do. For now. For each feature I create I can ask which of the following is it achieving:
 
