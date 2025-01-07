@@ -1,11 +1,11 @@
 ---
-slug: "/projects/on-interviewing/"
+slug: "/editorials/on-interviewing/"
+date: "2025-01-05"
 draft: true
-title: Interviewing: There are 4 of us in this relationship
+title: Interviewing - There are 4 of us in this relationship
 description: "Some thoughts on the interviewing process from the position of a lower middle manager"
 author: "Steven Fewster"
 category: "editorials"
-date: 2025-01-05
 cover: ./zhao-yangjun-sRCDREoEqAA-unsplash.jpg
 attr:
   sourceName: Zhao Yangjun
