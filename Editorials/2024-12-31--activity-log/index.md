@@ -38,6 +38,13 @@ _Queued:_
 </section>
 
 <section data-cmp="content-box" class="body-font w-full text-gray-600 border-2 border-gray-200 border-opacity-60 p-6 my-6">
+    <h1 class="title-font mb-4 text-3xl font-medium sm:text-2xl">Events</h1>
+  <dl>
+      <dd title="1st January 2025">FACUP3 Fulham - Watford (2024-01-09)<br/><small>TBC</small></dd>
+  <dl>
+</section>
+
+<section data-cmp="content-box" class="body-font w-full text-gray-600 border-2 border-gray-200 border-opacity-60 p-6 my-6">
     <h1 class="title-font mb-4 text-3xl font-medium sm:text-2xl">Site Links Queue</h1>
 
 - [API Testing with Cypress - Part I - DEV Community](https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i#automating-tests)

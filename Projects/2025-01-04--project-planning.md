@@ -55,7 +55,7 @@ Done as far as we're concerned for this Milestone is:
 
 ## Tasks (T) and Features (F)
 
-- (T) Crete Git project to host code and management
+- (T) Create Git project to host code and management
 - (T) Create project and commit to git
 - (F) Update code to only allow registrations from xxx.com
 - (F) Add basic styling to application
