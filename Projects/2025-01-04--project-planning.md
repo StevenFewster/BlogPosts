@@ -15,7 +15,7 @@ attr:
 
 ## What's In A Name
 
-I've been caught in a name trap too many times, so let's just go with _Adjective Noun_ type of naming convention so that we can easily pivot later and don't to our usual of buying a domain name that we then let lapse. Ladies and Gents, I give you: _Project Cranky Hippo_.
+I've been caught in a name trap too many times, so let's just go with _Adjective Noun_ type of naming convention so that we can easily pivot later and don't do our _usual_ of buying a domain name that we then let lapse. Ladies and Gents, I give you: _Project Cranky Hippo_.
 
 ## Planning
 
