@@ -16,6 +16,6 @@ I used [the excellent Dan Wahlin tutorial](http://weblogs.asp.net/dwahlin/archiv
 
 The [final app is here](/demo/angular-app/index.html "angular app demo".
 
-And you can [check it out on github](https://githhub.com/StevenFewster/ncc "Angular Exmaple").
+And you can [check it out on github](https://github.com/StevenFewster/ncc "Angular Exmaple").
 
 Enjoy.
