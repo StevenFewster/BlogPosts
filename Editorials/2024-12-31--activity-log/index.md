@@ -40,7 +40,7 @@ _Queued:_
 <section data-cmp="content-box" class="body-font w-full text-gray-600 border-2 border-gray-200 border-opacity-60 p-6 my-6">
     <h1 class="title-font mb-4 text-3xl font-medium sm:text-2xl">Events</h1>
   <dl>
-      <dd title="1st January 2025">FACUP3 Fulham - Watford (2024-01-09)<br/><small>TBC</small></dd>
+      <dd title="1st January 2025">FACUP3 Fulham 4 - 1 Watford (2024-01-09)<br/><small>Vata On Fire</small></dd>
   <dl>
 </section>
 
