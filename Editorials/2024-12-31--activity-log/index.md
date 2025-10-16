@@ -21,8 +21,8 @@ attr:
 _Completed:_
 
 <dl>
-    <dd title="October 2025"><a href="https://www.goodreads.com/book/show/75650360-voices-of-the-dead" title="Voices of the Dead - Ambrose Parry" target="_blank">Voices of the Dead - Ambrose Parry</a>
-    <br/><small>Christopher Brookmyre and Marisa tell a great historical fiction, revisiting some of the Unsinkable Rubber Ducks territory. Loving it so far.</small></dd>
+    <dd title="September 2025"><a href="https://www.audible.co.uk/pd/The-Accidental-Soldier-Audiobook/B0D84D2VT9" title="VThe Accidental Soldier - Owain Mulligan (Audiobook)" target="_blank">The Accidental Soldier - Owain Mulligan (Audiobook)</a>
+    <br/><small>Really interesting account of one man's role in the Iraq war, very moving in parts. Many mentions of masturbation.</small></dd>
     <dd title="October 2025"><a href="https://www.penguin.co.uk/books/453609/the-impossible-fortune-by-osman-richard/9780241743980" title="The Impossible Fortune - Richard Osman" target="_blank">The Impossible Fortune - Richard Osman</a>
     <br/><small>The latest instalment didn't disappointed. Great to reconnect with the gang!</small></dd>
     <dd title="August 2025"><a href="https://anthonyhorowitz.com/books/title/the-house-of-silk-a-sherlock-holmes-novel" title="House of Silk - Anthony Horowitz" target="_blank">House of Silk - Anthony Horowitz</a>
@@ -38,7 +38,11 @@ _Completed:_
 
 _In Progress:_
 
-- [The Accidental Soldier](https://www.audible.co.uk/pd/The-Accidental-Soldier-Audiobook/B0D84D2VT9 "The Accidental Soldier")
+
+<dl>
+    <dd title="October 2025"><a href="https://www.goodreads.com/book/show/75650360-voices-of-the-dead" title="Voices of the Dead - Ambrose Parry" target="_blank">Voices of the Dead - Ambrose Parry</a>
+    <br/><small>Christopher Brookmyre and Marisa tell a great historical fiction, revisiting some of the Unsinkable Rubber Ducks territory. Loving it so far.</small></dd>
+  </dl>
 
 _Queued:_
 
